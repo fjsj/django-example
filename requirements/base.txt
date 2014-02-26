@@ -1,0 +1,10 @@
+Django==1.6.2
+South==0.8.4
+argparse==1.2.1
+django-model-utils==2.0.2
+django-precompressed==0.0.2
+django-url-tools==0.0.8
+django.js==0.8.1
+djangorestframework==2.3.12
+psycopg2==2.5.2
+wsgiref==0.1.2

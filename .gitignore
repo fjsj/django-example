@@ -1,0 +1,8 @@
+.DS_Store
+*.db
+*.pyc
+.sass-cache
+/static/
+/uploads/
+CACHE/
+env/

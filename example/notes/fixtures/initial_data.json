@@ -1,0 +1,18 @@
+[
+  {
+    "model": "notes.Note",
+    "pk": 1,
+    "fields": {
+      "title": "Note 1",
+      "description": "Bla bla bla"
+    }
+  },
+  {
+    "model": "notes.Note",
+    "pk": 2,
+    "fields": {
+      "title": "Note 2",
+      "description": "I'm note 2"
+    }
+  }
+]

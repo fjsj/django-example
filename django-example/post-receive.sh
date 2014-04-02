@@ -1,3 +1,5 @@
+#!/bin/sh
+
 env_python=../env/bin/python
 env_pip=../env/bin/pip
 
